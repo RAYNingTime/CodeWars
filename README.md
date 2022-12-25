@@ -1,2 +1,9 @@
-# CodeWars
-Recently signed up to codewars.com, let's see where that takes me
+# Code Wars
+
+__This represetory is goint to contain all the codes from__ `codewars.com`
+
+## Folders:
+- CPP (C++)
+- ...
+
+_Note: This list is going to be updated_
