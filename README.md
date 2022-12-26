@@ -7,3 +7,4 @@ __This represetory is goint to contain all the codes from__ `codewars.com`
 - ...
 
 _Note: This list is going to be updated_
+
